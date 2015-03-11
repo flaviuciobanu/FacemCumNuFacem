@@ -5,5 +5,5 @@ public abstract class Product {
  protected float price;
   public abstract float getPrice(int quantity);
   public abstract String toString();
-	 
+	 //nu se poate asa cevaaaaaaaaa
 }
